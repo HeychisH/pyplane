@@ -71,26 +71,6 @@ from the repository:
 2. Change into the root directory of the repository
 3. Execute `python run_pyplane.py` or `python -m pyplane`
 
-## Running as a standalone program (Windows only)
-
-If you do not have Python available on Windows you can use the
-[stand-alone version](https://github.com/TUD-RST/pyplane/releases). You just
-need to run the provided installer file `PyPlane_Setup.exe`. It will create a
-directory on your desktop in which all required files will be stored. A shortcut
-for launching PyPlane will be placed on the desktop. No modifications in the
-system registry will be done. As in the native Python version, a functional
-LaTeX installation will produce better formatting results in the linearization
-tabs. However, even without LaTeX the program is fully functional.
-
-Double-click on the PyPlane icon on the desktop in order to launch the
-application. **Start-up may take some time.**
-
-# Python 2
-
-The last version of this program which is fully compatible with Python 2.7
-is [version 1.1](https://github.com/TUD-RST/pyplane/releases/tag/PyPlane_v1.1.0)
-.
-
 
 
 
